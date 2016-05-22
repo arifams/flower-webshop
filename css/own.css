@@ -34,3 +34,7 @@ p {
   max-height: 260px;
   margin-left: 180px;
 }
+
+.navbar {
+  background: rgba(0, 77, 0, 0.7);
+}
